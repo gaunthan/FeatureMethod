@@ -36,3 +36,12 @@ cmake ..
 make
 sudo make install
 ```
+
+## 编译本项目
+```
+cd FeatureMethod
+mkdir -p build
+cd build
+cmake ..
+make
+```
